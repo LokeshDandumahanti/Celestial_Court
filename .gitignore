@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime trial artifacts (generated in the invoking project, not the repo)
+court_cases/
+
+# Editors
+.idea/
+.vscode/

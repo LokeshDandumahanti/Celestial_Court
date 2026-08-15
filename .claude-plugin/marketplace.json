@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "celestialcourt",
+  "description": "Adversarial tribunal for ideas: research grounds the topics, God and Devil orchestrate Angels and Demons, and a Judge rules against your requirements.",
+  "owner": {
+    "name": "Lokesh"
+  },
+  "plugins": [
+    {
+      "name": "celestialcourt",
+      "description": "Run any suggestion, argument, or caution through an adversarial tribunal before accepting it.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "celestialcourt",
+  "version": "0.1.0",
+  "description": "Adversarial tribunal for suggestions. Research grounds the topics first; God and Devil orchestrate Angel/Demon subagents to support or reject each researched topic; a Judge rules against the user's requirements with a bounded pass=2 loop.",
+  "author": {
+    "name": "Lokesh"
+  },
+  "license": "MIT",
+  "hooks": "./hooks/hooks.json"
+}

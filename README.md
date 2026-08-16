@@ -4,9 +4,9 @@
   <em>"Put your idea on trial before you build it"</em>
 </p>
 
-![Celestial Court banner](Images/banner.png)
-
-
+<p align="center">
+  <img src="Images/celestial_court_logo.png" alt="Celestial Court logo" width="360">
+</p>
 
 
 Got an idea? An argument? A warning? **Celestial Court puts it on trial**
@@ -32,9 +32,7 @@ your codebase, sources, alternatives, what already exists. They write down
 the candidate ways forward as a **research brief** every claim backed by
 a source.
 
-<p align="center">
-  <img src="Images/celestial_court_logo.png" alt="Celestial Court logo" width="360">
-</p>
+
 
 **3. Two opposing sides fight over those researched ways at the same
 time.**
@@ -117,3 +115,6 @@ missing, and installs only if you say yes.
 ## License
 
 MIT
+
+![Celestial Court banner](Images/banner.png)
+

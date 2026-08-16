@@ -2,9 +2,10 @@
 
 > *"Put your idea on trial before you build it"*
 
-# Put your idea  
-## on **trial**  
-# before you build it
+
+<p align="center">
+  <em>"Put your idea on trial before you build it"</em>
+</p>
 
 <p align="center">
   <img src="Images/celestial_court_logo.png" alt="Celestial Court logo" width="360">

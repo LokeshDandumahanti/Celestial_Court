@@ -1,6 +1,10 @@
-# Celestial Court ⚖️ put your idea on trial before you build it
+# Celestial Court ⚖️ 
 
-> *"Put it through purgatory before it ships."*
+> *"Put your idea on trial before you build it"*
+
+# Put your idea  
+## on **trial**  
+# before you build it
 
 <p align="center">
   <img src="Images/celestial_court_logo.png" alt="Celestial Court logo" width="360">

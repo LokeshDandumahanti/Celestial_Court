@@ -115,6 +115,3 @@ missing, and installs only if you say yes.
 ## License
 
 MIT
-
-![Celestial Court banner](Images/banner.png)
-

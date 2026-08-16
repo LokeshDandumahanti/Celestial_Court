@@ -1,8 +1,5 @@
 # Celestial Court ⚖️ 
 
-> *"Put your idea on trial before you build it"*
-
-
 <p align="center">
   <em>"Put your idea on trial before you build it"</em>
 </p>

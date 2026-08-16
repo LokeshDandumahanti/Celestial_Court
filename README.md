@@ -12,7 +12,11 @@ Got an idea? An argument? A warning? **Celestial Court puts it on trial**
 before you commit to it so you never build something that should never
 have been built, and you never kill something that deserved a chance.
 
+![Celestial Court banner](Images/banner.png)
+
 ## What actually happens
+
+![Celestial Court flow](Images/flow.png)
 
 **1. We learn what you really want.**
 
@@ -67,8 +71,6 @@ The final ruling tells you exactly what to do:
 Everything is written down as plain files you can open, so you always know
 *why* a decision was made and you get a clear, optimised path to actually
 reach your goal.
-
-![Celestial Court architecture](Images/architecture.png)
 
 ## Install
 

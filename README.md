@@ -4,15 +4,15 @@
   <em>"Put your idea on trial before you build it"</em>
 </p>
 
-<p align="center">
-  <img src="Images/celestial_court_logo.png" alt="Celestial Court logo" width="360">
-</p>
+![Celestial Court banner](Images/banner.png)
+
+
+
 
 Got an idea? An argument? A warning? **Celestial Court puts it on trial**
 before you commit to it so you never build something that should never
 have been built, and you never kill something that deserved a chance.
 
-![Celestial Court banner](Images/banner.png)
 
 ## What actually happens
 
@@ -31,6 +31,10 @@ Before anyone argues, **researcher agents** dig through the real world:
 your codebase, sources, alternatives, what already exists. They write down
 the candidate ways forward as a **research brief** every claim backed by
 a source.
+
+<p align="center">
+  <img src="Images/celestial_court_logo.png" alt="Celestial Court logo" width="360">
+</p>
 
 **3. Two opposing sides fight over those researched ways at the same
 time.**

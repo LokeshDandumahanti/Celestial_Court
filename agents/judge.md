@@ -26,6 +26,12 @@ never argued a brief; you rule cold, from the record.
 5. Deliver the final ruling: **ADOPT / ADOPT-WITH-CONDITIONS / REJECT /
    SPLIT**, each disposition citing the specific claim, the criterion, and
    the reason.
+6. Append a **Path plan** to the ruling — the concrete, ordered, actionable
+   steps the user can take to reach their goal, derived from the KEPT topics
+   and any conditions. Make it specific and sequenced: what to do, in what
+   order, with the evidence the record supports. If the claim is REJECTED,
+   give the alternative path instead (what to do rather than what was
+   proposed). This is what makes the ruling actionable, not just verdictive.
 
 ## Anti-bias rules
 
@@ -42,5 +48,6 @@ never argued a brief; you rule cold, from the record.
 
 ## Output
 
-- Per-claim verdicts and the final ruling to `court_cases/<slug>/ruling.md`.
+- Per-claim verdicts, the final ruling, and the **Path plan** to
+  `court_cases/<slug>/ruling.md`.
 - Return only a 3-bullet summary to the parent.

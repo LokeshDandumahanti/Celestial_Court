@@ -91,6 +91,13 @@ def main() -> None:
         text = p.read_text(encoding="utf-8")
         check("ponytail:ponytail" in text, f"{name}: ponytail must be qualified as ponytail:ponytail (bug #25834)")
 
+    # 4b. v1 fixes: web-armed researcher + Judge path plan
+    print(" v1-fixes")
+    res = (ROOT / "agents/researcher.md").read_text(encoding="utf-8") if (ROOT / "agents/researcher.md").exists() else ""
+    check("WebSearch" in res and "WebFetch" in res, "researcher: must be web-armed (WebSearch/WebFetch)")
+    judge = (ROOT / "agents/judge.md").read_text(encoding="utf-8") if (ROOT / "agents/judge.md").exists() else ""
+    check("Path plan" in judge, "judge: must deliver a Path plan (actionable ruling)")
+
     # 5. Determinism markers + four submit artifacts in the playbook
     print(" determinism")
     playbook = celestialcourt_skill.read_text(encoding="utf-8")
